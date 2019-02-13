@@ -1,0 +1,15 @@
+#!/bin/bash -e
+
+# Delete all symlinks from /usr/share/icons/ptOS
+find /usr/share/icons/ptOS  -type l -name "*.svg" | while read ptos_file; do
+  rm "$ptos_file"
+done
+
+# Symlink to Papirus-Dark if it isn't being overridden
+find /usr/share/icons/Papirus-Dark -name "*.svg" | while read papirus_file; do
+  ptos_file="${papirus_file/Papirus-Dark/ptOS}"
+  ptos_file_wo_ext=${ptos_file%.*}
+  if ! ls "$ptos_file_wo_ext"* &>/dev/null
+    ln -sf "$papirus_file" "$ptos_file"
+  fi
+done
