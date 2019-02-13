@@ -1,7 +1,7 @@
 #!/bin/bash -e
 
 # Delete all symlinks from /usr/share/icons/ptOS
-find /usr/share/icons/ptOS  -type l -name "*.svg" | while read ptos_file; do
+find /usr/share/icons/ptOS  -type l | while read ptos_file; do
   rm "$ptos_file"
 done
 
