@@ -9,7 +9,8 @@ done
 find /usr/share/icons/Papirus-Dark -name "*.svg" | while read papirus_file; do
   ptos_file="${papirus_file/Papirus-Dark/ptOS}"
   ptos_file_wo_ext=${ptos_file%.*}
-  if ! ls "$ptos_file_wo_ext"* &>/dev/null
+  if ! ls "$ptos_file_wo_ext"* &>/dev/null; then
+  	mkdir -p "$(dirname "$ptos_file")"
     ln -sf "$papirus_file" "$ptos_file"
   fi
 done
