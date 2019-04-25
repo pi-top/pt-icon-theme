@@ -1,11 +1,5 @@
 pt-icon-theme (1.0.1-1) stretch; urgency=low
 
-  * DUMMY
-
- -- Mike Roberts <mike@pi-top.com>  Thu, 25 Apr 2019 17:44:04 +0800
-
-pt-icon-theme (1.0.1-1) stretch; urgency=low
-
   * Add preferences-system-bluetooth-active.svg
 
  -- Mike Roberts <mike@pi-top.com>  Thu, 25 Apr 2019 17:44:04 +0800
