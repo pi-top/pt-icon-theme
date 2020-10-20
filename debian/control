@@ -12,5 +12,5 @@ Depends: ${misc:Depends},
  papirus-icon-theme,
  rpd-icons,
 Description: pi-top Icon Theme
- pi-top's icon theme is largely based on Papirus, a SVG-based icon theme, drawing inspiration from Material Design
- and flat design.
+ pi-top's icon theme is largely based on Papirus, a SVG-based icon theme,
+ drawing inspiration from Material Design and flat design.
