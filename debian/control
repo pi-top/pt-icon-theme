@@ -7,7 +7,7 @@ Standards-Version: 4.5.0
 Homepage: https://pi-top.com/
 
 Package: pt-icon-theme
-Architecture: any
+Architecture: all
 Depends: ${misc:Depends},
  papirus-icon-theme,
  rpd-icons,
