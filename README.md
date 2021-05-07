@@ -1,7 +1,7 @@
-# pt-icon-theme-deb
-Implement Papirus icon theme, with custom modifications
+# pi-topOS Icon Theme
 
-## NOTE
+Papirus icon theme with custom modifications
+
 This theme inherits from other themes, in the following order:
 * Papirus-Dark
 * Papirus
@@ -9,5 +9,3 @@ This theme inherits from other themes, in the following order:
 * PiX
 * gnome
 * hicolor
-
-When searching for an icon to override, it is recommended to check PiX first, as this is a good guide for how to override the UI in Raspbian.
