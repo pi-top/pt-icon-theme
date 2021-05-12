@@ -1,15 +1,8 @@
 pt-icon-theme (2.0.1) buster; urgency=medium
 
-  [ Mike Roberts ]
-  * Architecture: any
   * Allow external sources when testing shell scripts
-  * Architecture: any --> all
-  * Add GitHub workflows
   * Update README
-  * Standards-Version: 4.5.1
-
-  [ Jorge Capona ]
-  * Update copyright file
+  * Update packaging
 
  -- pi-top <deb-maintainers@pi-top.com>  Tue, 11 May 2021 18:45:24 +0000
 
