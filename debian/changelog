@@ -1,3 +1,11 @@
+pt-icon-theme (2.0.1) buster; urgency=medium
+
+  * Allow external sources when testing shell scripts
+  * Update README
+  * Update packaging
+
+ -- pi-top <deb-maintainers@pi-top.com>  Tue, 11 May 2021 18:45:24 +0000
+
 pt-icon-theme (2.0.0) buster; urgency=medium
 
   * Migrate to native package
