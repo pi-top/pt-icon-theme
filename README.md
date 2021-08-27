@@ -6,6 +6,6 @@ This theme inherits from other themes, in the following order:
 * Papirus-Dark
 * Papirus
 * breeze-dark
-* PiX
+* PiXflat
 * gnome
 * hicolor
