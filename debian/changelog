@@ -1,13 +1,7 @@
 pi-topos-icon-theme (2.0.3) bullseye; urgency=medium
 
-  * Workflow: create draft release manually
-  * [pre-commit.ci] pre-commit autoupdate (#5)
-  * New workflows (#6)
-  * Update master workflow files
-  * Update master workflow files
   * Bullseye release: `pt-os-icon-theme` (#8)
-  * Updated master workflow files
-  * Updated master workflow files
+  * Update master workflow files
 
  -- pi-top <deb-maintainers@pi-top.com>  Wed, 01 Sep 2021 20:47:43 +0000
 
