@@ -1,8 +1,8 @@
 # pi-topOS Icon Theme
 
-Papirus icon theme with custom modifications
+This package provides a custom icon theme for pi-topOS.
 
-This theme inherits from other themes, in the following order:
+In addition to custom icons, this theme inherits from other themes in the following order:
 * Papirus-Dark
 * Papirus
 * breeze-dark
