@@ -1,4 +1,4 @@
-pi-topos-icon-theme (2.0.3-3) bullseye; urgency=medium
+pi-topos-icon-theme (2.1.0-1) bullseye; urgency=medium
 
   * Include scalable icons in theme (#12)
 
