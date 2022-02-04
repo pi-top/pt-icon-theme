@@ -1,3 +1,9 @@
+pi-topos-icon-theme (2.1.0-1) bullseye; urgency=medium
+
+  * Include scalable icons in theme (#12)
+
+ -- pi-top <deb-maintainers@pi-top.com>  Fri, 04 Feb 2022 12:10:18 +0000
+
 pi-topos-icon-theme (2.0.3-2) bullseye; urgency=medium
 
   * Updated master workflow files
