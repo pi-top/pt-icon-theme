@@ -1,3 +1,17 @@
+pi-topos-icon-theme (2.1.0-2) bullseye; urgency=medium
+
+  * [pre-commit.ci] pre-commit autoupdate (#13)
+  * Updated master workflow files
+  * Updated master workflow files
+  * [pre-commit.ci] pre-commit autoupdate (#15)
+  * [pre-commit.ci] pre-commit autoupdate (#16)
+  * Updated master workflow files
+  * Updated master workflow files
+  * Updated master workflow files
+  * Package for bookworm (#18)
+
+ -- pi-top <deb-maintainers@pi-top.com>  Fri, 12 Apr 2024 19:20:10 +0000
+
 pi-topos-icon-theme (2.1.0-1) bullseye; urgency=medium
 
   * Include scalable icons in theme (#12)
